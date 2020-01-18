@@ -1,6 +1,13 @@
-# Hello-Raz
-This is my Pre-Work assignment for CodePath.com MAD
-My name Raziel and this is my first time using GitHub.  
-This is also my first time making an Android App.  
-I hope CodePath.com accepts me for the MAD program.
-I am excited to learn how to make Android apps!
+
+## Hello-Raz
+
+### App Description
+ I created a simple Android app that displays the message "Hello from Raziel!" and enables the user to click a button to change the color of the displayed text.
+
+### App Walk-though
+<img src="https://i.imgur.com/25HxVp4.gif" width=200><br>
+
+### Required User Stories
+- [x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
